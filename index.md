@@ -10,6 +10,6 @@
 
 [Old blog on medium.com](https://medium.com/@dirknbr)
 
-[Twitter](twitter.com/dirknbr)
+[Twitter](https://twitter.com/dirknbr)
 
 
