@@ -22,4 +22,4 @@ I am a data scientist at Google interested in Bayesian stats, ML, maths etc.
 
 [Linkedin](https://www.linkedin.com/in/dirk-nachbar-2417023/)
 
-<img src='owl.png' width='200'>
+<img src='owl.jpg' width='200'>
