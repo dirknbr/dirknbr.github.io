@@ -10,6 +10,8 @@ I am a data scientist at Google interested in Bayesian stats, ML, maths etc.
 
 [Hyperparameter optimisation with keras](hpopt.md)
 
+[Compare 5 star ratings](5point.md)
+
 ## Other stuff
 
 [New blog](https://dnachbar.blogspot.com/)
