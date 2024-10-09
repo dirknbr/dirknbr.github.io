@@ -12,6 +12,8 @@ I am a data scientist at Google interested in Bayesian stats, ML, maths etc.
 
 [Compare 5 star ratings](5point.md)
 
+[Transitive correlation](corr.md)
+
 ## Other stuff
 
 [New blog](https://dnachbar.blogspot.com/)
