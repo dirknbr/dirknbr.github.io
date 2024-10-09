@@ -21,3 +21,5 @@ I am a data scientist at Google interested in Bayesian stats, ML, maths etc.
 [Old blog on medium.com](https://medium.com/@dirknbr)
 
 [Linkedin](https://www.linkedin.com/in/dirk-nachbar-2417023/)
+
+<img src='owl.png' width='200'>
