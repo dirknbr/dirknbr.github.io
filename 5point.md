@@ -19,7 +19,7 @@ gives us a vector that adds to 1.
 
 Our Dirichlet prior will be the following given we know that many people give 1, 4, or 5 stars. 
 
-```
+```py
 alpha = [.25, .125, .125, .25, .25]
 ```
 
@@ -63,7 +63,7 @@ sum(a1 * np.arange(1, 6)), sum(a2 * np.arange(1, 6))
 
 The probability of less than 4 stars is 8% and 6% respectively. So the chance of a bad experience is higher in the first restaurant.
 
-```
+```py
 # prob of a bad experience, (1 2 or 3)
 sum(a1[:3]), sum(a2[:3])
 (0.08167586791903829, 0.060920351559323675)
