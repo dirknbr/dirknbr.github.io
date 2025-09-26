@@ -14,6 +14,8 @@ I am a data scientist at Google interested in Bayesian stats, ML, maths etc.
 
 [Transitive correlation](corr.md)
 
+[Inferring triple joint probability](jointprob.md)
+
 ## Other stuff
 
 [New blog](https://dnachbar.blogspot.com/)
