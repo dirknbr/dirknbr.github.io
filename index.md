@@ -16,6 +16,8 @@ I am a data scientist at Google interested in Bayesian stats, ML, maths etc.
 
 [Inferring triple joint probability](jointprob.md)
 
+[Maths of saying no](sayno.md)
+
 ## Other stuff
 
 [New blog](https://dnachbar.blogspot.com/)
